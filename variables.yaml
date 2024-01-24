@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.suresh.fun # submit your host
+REDIS_HOST: redis.suresh.fun
+MYSQL_HOST: mysql.suresh.fun
+RABBITMQ_HOST: rabbitmq.suresh.fun
+CATALOGUE_HOST: catalogue.suresh.fun
+USER_HOST: user.suresh.fun
+CART_HOST: cart.suresh.fun
+SHIPPING_HOST: shipping.suresh.fun
+PAYMENT_HOST: payment.suresh.fun
+DISPATCH_HOST: dispatch.suresh.fun
