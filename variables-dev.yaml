@@ -8,3 +8,5 @@ CART_HOST: cart.app-dev.suresh.fun
 SHIPPING_HOST: shipping.app-dev.suresh.fun 
 PAYMENT_HOST: payment.app-dev.suresh.fun 
 DISPATCH_HOST: dispatch.app-dev.suresh.fun 
+NEXUS_URL: http://172.31.12.142:8081/repository
+group_id: "com/roboshop"
